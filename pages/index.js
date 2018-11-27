@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import styles from './index.scss';
 import { Button } from 'boilerplate-form';
+import "boilerplate-form/lib/boilerplate-form.scss";
 
 const Index = () => (
   <div className={styles.App}>
