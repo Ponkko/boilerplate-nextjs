@@ -1,0 +1,29 @@
+{
+  "name": "boilerplate-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ponkko/boilerplate-nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ponkko/boilerplate-nextjs/issues"
+  },
+  "homepage": "https://github.com/Ponkko/boilerplate-nextjs#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "boilerplate-form": "git+https://github.com/Ponkko/boilerplate_form.git#rollup",
+    "next": "^7.0.2",
+    "node-sass": "^4.10.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
